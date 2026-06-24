@@ -110,6 +110,18 @@ Jay Ghogare
 
 🚀 Learning Python Today | Building AI Tomorrow 🤖
 
+💡 Passionate about Programming, AI/ML, and Technology.
+
+🌱 Continuously learning, building projects, and improving my coding skills every day.
+
+🎯 Goal: To become an AI/ML Engineer and create innovative solutions through technology.
+
 ---
 
-⭐ If you like this project, feel free to give it a star!
+⭐ If you found this project helpful, consider giving it a star!
+
+🤝 Suggestions and feedback are always welcome.
+
+📌 Check out my other repositories for more Python projects.
+
+🚀 More exciting projects coming soon!
