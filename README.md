@@ -11,7 +11,7 @@ This project helped me learn Python fundamentals such as variables, user input, 
 ---
 
 🚀 Features
-
+.
 ✅ Random number generation
 
 ✅ User input handling
